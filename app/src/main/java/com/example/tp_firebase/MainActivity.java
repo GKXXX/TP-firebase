@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         FirebaseDatabase database = FirebaseDatabase.getInstance();
-        DatabaseReference myRef = database.getReference("baseDonnee");
+        DatabaseReference myRef = database.getReference("livre/");
+        myRef.child("1/auteur").setValue("Molière");
     }
 }

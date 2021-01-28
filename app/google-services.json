@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "39257136649",
+    "firebase_url": "https://tp-firebase-livre-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tp-firebase-livre",
+    "storage_bucket": "tp-firebase-livre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39257136649:android:537d78c446e8ef053922d8",
+        "android_client_info": {
+          "package_name": "com.example.tp_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39257136649-kb06tskdpc4sg5asghshaofb4o5v2948.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tp_firebase",
+            "certificate_hash": "4e9860b3d54be724f59b2c79ddd9e8edd8af0a8e"
+          }
+        },
+        {
+          "client_id": "39257136649-226vb6jtnto7f883fh4ee0phlgd1b4nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNNfSTLBqiRG9Tk8MelqWTWiuiVXZTsA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39257136649-226vb6jtnto7f883fh4ee0phlgd1b4nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
